@@ -1,3 +1,11 @@
 h1{
     color: coral;
 }
+
+#content{
+    width: 600px;
+    border: 1px solid rebeccapurple;
+    margin: auto;
+    padding: 50px;
+    background-color: #ccc5cc;
+}
